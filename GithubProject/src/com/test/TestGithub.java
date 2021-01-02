@@ -6,5 +6,12 @@ public class TestGithub {
 	{
 		return "data";
 	}
+	
+	public void show1()
+	{
+		System.out.println("inside show1");
+	}
+	
+	
 
 }
